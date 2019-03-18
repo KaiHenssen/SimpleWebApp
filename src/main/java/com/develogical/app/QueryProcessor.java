@@ -9,7 +9,7 @@ public class QueryProcessor {
         }
         if (query.toLowerCase().contains("goethe")) {
             return "Goethe (sometime) was a " +
-                    "poet, and actor, widely regarded as the one of the greatest " +
+                    "poet, and actor, playwright widely regarded as the one of the greatest " +
                     "writer in the German language.";
         }
         return "";
